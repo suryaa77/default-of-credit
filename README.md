@@ -93,3 +93,18 @@ Key steps:
 
 ## 📁 Project Structure
 
+default-of-credit/
+├── data/ # Raw dataset (Excel or CSV)
+├── notebook.ipynb # Main analysis and model building
+├── README.md # Project overview
+└── requirements.txt # (Optional) Python dependencies
+
+---
+
+## 📌 How to Run the Project
+
+1. Clone the repository:
+```bash
+git clone https://github.com/suryaa77/default-of-credit.git
+cd default-of-credit
+
